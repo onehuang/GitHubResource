@@ -5,21 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="917d49cb-7cb3-44b8-a8b4-fe83bb6d1fae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzb/interview/LongestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzb/interview/MaxSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzb/interview/MidOfSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzb/interview/Zconvert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hzb/ArrayLearn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hzb/ArrayLearn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hzb/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hzb/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hzb/Utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hzb/Utils/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hzb/interview/DataStructure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hzb/interview/DataStructure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hzb/interview/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hzb/interview/designMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hzb/interview/DesignMode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hzb/interview/linkedlistReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hzb/interview/linkedlistReversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hzb/javaThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hzb/javaThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hzb/learn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hzb/learn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzb/interview/IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzb/interview/MyAtoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ArrayLearn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ArrayLearn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/SellTicket$Ticket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/SellTicket$Ticket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCountDownLatch$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCountDownLatch$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCountDownLatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCountDownLatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCyclicBarrier$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCyclicBarrier$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCyclicBarrier$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCyclicBarrier$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCyclicBarrier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCyclicBarrier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadDataExchange$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadDataExchange$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadDataExchange$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadDataExchange$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadDataExchange.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadDataExchange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadProductAndConsumer$Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadProductAndConsumer$Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadProductAndConsumer$consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadProductAndConsumer$consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadProductAndConsumer$producter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadProductAndConsumer$producter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadProductAndConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadProductAndConsumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadRunable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadRunable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadSemaphore$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadSemaphore$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadSemaphore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadSemaphore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadVolatile$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadVolatile$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadVolatile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadVolatile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/Utils/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/Utils/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/MaxSubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/interview/MaxSubString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/ProxyMode$Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/interview/ProxyMode$Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/ProxyMode$ServiceImpi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/interview/ProxyMode$ServiceImpi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/ProxyMode$dynamicProxyMode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/interview/ProxyMode$dynamicProxyMode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/ProxyMode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/interview/ProxyMode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/StrRandom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/Zconvert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/interview/Zconvert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/binaryTreeVisit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/interview/binaryTreeVisit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/designMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/linkedlistReversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/interview/linkedlistReversal.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,12 +55,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hzb/interview/DesignMode.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hzb/interview/IsPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="309">
+              <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,15 +89,15 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hzb/interview/LongestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hzb/interview/Zconvert.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hzb/interview/DesignMode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hzb/interview/MyAtoi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hzb/interview/IsPalindrome.java" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
         <option name="mavenHome" value="/usr/local/maven3.6.0" />
-        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -95,22 +117,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/GitHubResource.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-379" />
-    <option name="y" value="87" />
-    <option name="width" value="1350" />
-    <option name="height" value="748" />
+    <option name="x" value="260" />
+    <option name="y" value="47" />
+    <option name="width" value="1400" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -173,20 +184,26 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hzb.interview" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
@@ -210,7 +227,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Zconvert">
+  <component name="RunManager" selected="Application.IsPalindrome">
+    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hzb.interview.IsPalindrome" />
+      <module name="GitHubResource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hzb.interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaxSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hzb.interview.MaxSubString" />
       <module name="GitHubResource" />
@@ -237,6 +267,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyAtoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hzb.interview.MyAtoi" />
+      <module name="GitHubResource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hzb.interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Zconvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hzb.interview.Zconvert" />
       <module name="GitHubResource" />
@@ -252,6 +295,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsPalindrome" />
+        <item itemvalue="Application.MyAtoi" />
         <item itemvalue="Application.Zconvert" />
         <item itemvalue="Application.MidOfSortedArray" />
         <item itemvalue="Application.MaxSubString" />
@@ -268,22 +313,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560909145396</updated>
+      <workItem from="1561037759300" duration="5698000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5698000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <frame x="0" y="27" width="1920" height="987" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21512248" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21741453" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24832214" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35346755" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3839713" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35287082" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -292,6 +345,9 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="10" weight="0.32997763" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32997763" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -299,6 +355,9 @@
       <window_info anchor="right" id="Maven" order="4" weight="0.32995737" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -308,6 +367,12 @@
           <line>68</line>
           <properties />
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hzb/interview/MyAtoi.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -323,13 +388,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/local/jdk/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="391" column="14" selection-start-line="391" selection-start-column="14" selection-end-line="391" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/local/jdk/src.zip!/java/util/stream/Stream.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hzb/interview/MaxSubString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -392,13 +451,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hzb/interview/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hzb/interview/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hzb/interview/linkedlistReversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-661">
@@ -408,10 +461,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hzb/interview/DesignMode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hzb/interview/MyAtoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="77" column="29" lean-forward="true" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/jdk-11.0.3/lib/src.zip!/java.base/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="703" column="37" selection-start-line="703" selection-start-column="37" selection-end-line="703" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hzb/interview/IsPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+          <folding>
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
           </folding>
         </state>
       </provider>
