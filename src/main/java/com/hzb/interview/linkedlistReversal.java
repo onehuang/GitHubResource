@@ -1,9 +1,9 @@
-package com.hzb;
+package com.hzb.interview;
 
 public class linkedlistReversal{
   /**
      date: 2018-06-14
-      µ¥Á´±í·­×ª
+      ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×ª
 
   */
 
@@ -22,7 +22,7 @@ public class linkedlistReversal{
   }
 
   /***
-   Î²²å·¨
+   Î²ï¿½å·¨
   */
   public static NodeLinked reversalLinkedByTailInsertMethod(NodeLinked head){
        System.out.println("reversalLinkedByTailInsertMethod");
@@ -30,12 +30,12 @@ public class linkedlistReversal{
   }
 
   /**
-  Í·²å·¨
+  Í·ï¿½å·¨
   Ô­Ê¼  1 3 4 5 6 3 4
-  ²½Öè1 3 1 4 5 6 3 4
-  ²½Öè2 4 3 1 5 6 3 4
-  ²½Öè3 5 4 3 1 6 3 4
-  ¡£¡£¡£¡£
+  ï¿½ï¿½ï¿½ï¿½1 3 1 4 5 6 3 4
+  ï¿½ï¿½ï¿½ï¿½2 4 3 1 5 6 3 4
+  ï¿½ï¿½ï¿½ï¿½3 5 4 3 1 6 3 4
+  ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
   */
   public static NodeLinked reversalLinkedByHeadInsertMethod(NodeLinked head){
 
@@ -52,11 +52,11 @@ public class linkedlistReversal{
   }
 
   /**
-     Ã¿Ò»¸ö½Úµã·ÅÈëÐÂÁ´±íµÄÍ·½Úµã
-      Í·½ÚµãÔÚ¸Ä±ä
-     Ô­Ê¼   1 3 4 5 6 3 4  ÐÂ
-     ²½Öè1  3 4 5 6 3 4       1
-     ²½Öè2  4 5 6 3 4         3 1
+     Ã¿Ò»ï¿½ï¿½ï¿½Úµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í·ï¿½Úµï¿½
+      Í·ï¿½Úµï¿½ï¿½Ú¸Ä±ï¿½
+     Ô­Ê¼   1 3 4 5 6 3 4  ï¿½ï¿½
+     ï¿½ï¿½ï¿½ï¿½1  3 4 5 6 3 4       1
+     ï¿½ï¿½ï¿½ï¿½2  4 5 6 3 4         3 1
 
   */
   public static NodeLinked reversallInkedByNewLinkedList(NodeLinked head){

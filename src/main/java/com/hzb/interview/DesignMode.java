@@ -4,7 +4,7 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
-public class designMode {
+public class DesignMode {
     public static void  main(String []args){
         ProxyMode.run();
     }
@@ -32,7 +32,6 @@ class ProxyMode{
 
     static class ServiceImpi implements Service{
 
-        @Override
         public void Add() {
             System.out.println("this is Add() Service");
         }
@@ -45,7 +44,6 @@ class ProxyMode{
             this.target = target;
         }
 
-       @Override
        public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
             System.out.println("--before---");
             Object result = method.invoke(target, args);
