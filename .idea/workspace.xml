@@ -5,42 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="917d49cb-7cb3-44b8-a8b4-fe83bb6d1fae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzb/interview/IsPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzb/interview/MyAtoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzb/interview/IntToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzb/interview/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzb/interview/MaxArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzb/interview/RegisMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzb/interview/RomanToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ArrayLearn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ArrayLearn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/SellTicket$Ticket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/SellTicket$Ticket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCountDownLatch$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCountDownLatch$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCountDownLatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCountDownLatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCyclicBarrier$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCyclicBarrier$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCyclicBarrier$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCyclicBarrier$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCyclicBarrier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadCyclicBarrier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadDataExchange$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadDataExchange$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadDataExchange$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadDataExchange$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadDataExchange.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadDataExchange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadProductAndConsumer$Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadProductAndConsumer$Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadProductAndConsumer$consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadProductAndConsumer$consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadProductAndConsumer$producter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadProductAndConsumer$producter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadProductAndConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadProductAndConsumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadRunable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadRunable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadSemaphore$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadSemaphore$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadSemaphore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadSemaphore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadVolatile$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadVolatile$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/ThreadVolatile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/ThreadVolatile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/Utils/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/Utils/Utils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/MaxSubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/interview/MaxSubString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/ProxyMode$Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/interview/ProxyMode$Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/ProxyMode$ServiceImpi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/interview/ProxyMode$ServiceImpi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/ProxyMode$dynamicProxyMode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/interview/ProxyMode$dynamicProxyMode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/ProxyMode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/interview/ProxyMode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/StrRandom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/Zconvert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/interview/Zconvert.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/binaryTreeVisit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/interview/binaryTreeVisit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/designMode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/linkedlistReversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/interview/linkedlistReversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hzb/interview/IsPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hzb/interview/IsPalindrome.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,14 +27,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hzb/interview/IsPalindrome.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
-              <folding>
-                <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#546#547#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -91,6 +59,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hzb/interview/DesignMode.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hzb/interview/MyAtoi.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hzb/interview/IsPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hzb/interview/RegisMatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hzb/interview/MaxArea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hzb/interview/IntToRoman.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hzb/interview/RomanToInt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hzb/interview/LongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -161,31 +135,12 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="GitHubResource" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GitHubResource" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hzb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GitHubResource" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GitHubResource" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hzb" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,9 +182,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IsPalindrome">
-    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hzb.interview.IsPalindrome" />
+  <component name="RunManager" selected="Application.LongestCommonPrefix">
+    <configuration name="IntToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hzb.interview.IntToRoman" />
       <module name="GitHubResource" />
       <extension name="coverage">
         <pattern>
@@ -241,8 +196,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hzb.interview.MaxSubString" />
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hzb.interview.LongestCommonPrefix" />
       <module name="GitHubResource" />
       <extension name="coverage">
         <pattern>
@@ -254,8 +209,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MidOfSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hzb.interview.MidOfSortedArray" />
+    <configuration name="MaxArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hzb.interview.MaxArea" />
       <module name="GitHubResource" />
       <extension name="coverage">
         <pattern>
@@ -267,8 +222,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyAtoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hzb.interview.MyAtoi" />
+    <configuration name="RegisMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hzb.interview.RegisMatch" />
       <module name="GitHubResource" />
       <extension name="coverage">
         <pattern>
@@ -280,8 +235,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zconvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hzb.interview.Zconvert" />
+    <configuration name="RomanToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hzb.interview.RomanToInt" />
       <module name="GitHubResource" />
       <extension name="coverage">
         <pattern>
@@ -295,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IsPalindrome" />
-        <item itemvalue="Application.MyAtoi" />
-        <item itemvalue="Application.Zconvert" />
-        <item itemvalue="Application.MidOfSortedArray" />
-        <item itemvalue="Application.MaxSubString" />
+        <item itemvalue="Application.LongestCommonPrefix" />
+        <item itemvalue="Application.RomanToInt" />
+        <item itemvalue="Application.IntToRoman" />
+        <item itemvalue="Application.MaxArea" />
+        <item itemvalue="Application.RegisMatch" />
       </list>
     </recent_temporary>
   </component>
@@ -314,46 +269,47 @@
       <option name="presentableId" value="Default" />
       <updated>1560909145396</updated>
       <workItem from="1561037759300" duration="5698000" />
+      <workItem from="1561269290491" duration="7440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5698000" />
+    <option name="totallyTimeSpent" value="15737000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="987" extended-state="6" />
+    <frame x="0" y="1" width="1920" height="1079" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21741453" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22275642" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3839713" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35287082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30982906" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40918803" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.36004272" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="10" weight="0.32997763" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32997763" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32905984" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" weight="0.32995737" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,6 +329,18 @@
           <line>66</line>
           <properties />
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hzb/interview/RegisMatch.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hzb/interview/LongestCommonPrefix.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -485,12 +453,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hzb/interview/IsPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
+        <state relative-caret-position="730">
           <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
           <folding>
             <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hzb/interview/RegisMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hzb/interview/MaxArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hzb/interview/IntToRoman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="86" selection-start-line="86" selection-end-line="99" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hzb/interview/RomanToInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="50" column="26" lean-forward="true" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hzb/interview/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
         </state>
       </provider>
     </entry>
